@@ -1,0 +1,10 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+C:/Users/coco.m/lab1/adaptor_display.sv,1663697227,systemVerilog,,C:/Users/coco.m/lab1/lab1.srcs/sources_1/new/sixteenbit_adder.sv,,Adaptor_display;activateDisplay;bcdSelector;bcdTo7Segment;clockDivider10KHz;displaySelector;hex_decoder,,uvm,,,,,,
+C:/Users/coco.m/lab1/lab1.gen/sources_1/ip/vio_0/sim/vio_0.v,1663697143,verilog,,,,vio_0,,uvm,,,,,,
+C:/Users/coco.m/lab1/lab1.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/coco.m/lab1/lab1.srcs/sim_1/new/sixteenadder_tb.sv,1663701749,systemVerilog,,,,sixteenadder_tb,,uvm,,,,,,
+C:/Users/coco.m/lab1/lab1.srcs/sources_1/new/sixteenbit_adder.sv,1663699988,systemVerilog,,C:/Users/coco.m/lab1/lab1.srcs/sim_1/new/sixteenadder_tb.sv,,sixteenbit_adder,,uvm,,,,,,
+C:/Users/coco.m/lab1/sixteenbit_adder_top.sv,1663697167,systemVerilog,,,,sixteenbit_adder_top,,uvm,,,,,,
